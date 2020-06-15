@@ -4,7 +4,7 @@
 
   <groupId>cd.connect.third_party</groupId>
   <artifactId>snakeyaml-anno</artifactId>
-  <version>1.1</version>
+  <version>1.2-SNAPSHOT</version>
   <name>snakeyaml-anno</name>
 
   <description>
@@ -33,7 +33,7 @@
     <connection>scm:git:git@github.com:beosign/snakeyaml-anno.git</connection>
     <developerConnection>scm:git:git@github.com:beosign/snakeyaml-anno.git</developerConnection>
     <url>git@github.com:beosign/snakeyaml-anno.git</url>
-    <tag>snakeyaml-anno-1.1</tag>
+    <tag>HEAD</tag>
   </scm>
 
   <dependencies>
